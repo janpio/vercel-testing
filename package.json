@@ -15,6 +15,6 @@
   },
   "scripts": {
     "start": "node index.js",
-    "vercel-build": "prisma generate --data-proxy",
+    "vercel-build": "prisma generate --data-proxy"
   }
 }
